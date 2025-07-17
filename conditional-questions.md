@@ -11,3 +11,9 @@ Q2. Program to check even odd.
 </summary>
 Write a program to check the number is even or odd. Take number from user as an input.
 </details>
+<details>
+<summary style="margin-top:5px;border:2px solid pink; padding-left:4px; border-radius:4px" >
+Q3. Program to check positive and even.
+</summary>
+Write a program to check the number is positive and even. Take number from user as an input.
+</details>
